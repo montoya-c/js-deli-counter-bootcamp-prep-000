@@ -9,6 +9,8 @@ function takeANumber(katzDeliLine){
     return `You are number ${number}.`;
 }
 
+console.log(takeANumber(katzDeliLine))
+
 
 
 
