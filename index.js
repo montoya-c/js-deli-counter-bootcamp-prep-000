@@ -10,6 +10,8 @@ function takeANumber(katzDeliLine){
 }
 
 console.log(takeANumber(katzDeliLine))
+console.log(takeANumber(katzDeliLine))
+console.log(takeANumber(katzDeliLine))
 
 
 
