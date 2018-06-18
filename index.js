@@ -1,9 +1,8 @@
 var katzDeliLine=[];
 
 var otherDeli=[];
-
+    var number = 0
 function takeANumber(katzDeliLine){
-    var number = 13
     number ++
     katzDeliLine.push(number);
     return `You are number ${number}.`;
